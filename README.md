@@ -1,11 +1,11 @@
-[![GitHub](https://badge.fury.io/gh/it-era%2Fngx-lazy-load.svg)](https://badge.fury.io/gh/it-era%2Fngx-lazy-load)  [![npm](https://badge.fury.io/js/%40it-era%2Fngx-lazy-load.svg)](https://badge.fury.io/js/%40it-era%2Fngx-lazy-load)
-
 # IT-era / NgxLazyLoad
 
-<!-- 
+<!--
 This library provide convenient pipes to bypass Angular built-in sanitization and get rid off the `unsafe value used in a ... context`. -->
 
 This package is a part of the [IT-era/ngx](https://github.com/it-era/ngx) packages suite.
+
+[![GitHub](https://badge.fury.io/gh/it-era%2Fngx-lazy-load.svg)](https://badge.fury.io/gh/it-era%2Fngx-lazy-load)  [![npm](https://badge.fury.io/js/%40it-era%2Fngx-lazy-load.svg)](https://badge.fury.io/js/%40it-era%2Fngx-lazy-load)
 
 ## Installation
 
